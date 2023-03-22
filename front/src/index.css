@@ -7,3 +7,9 @@
 body{
   font-family: monospace;
 }
+.root{
+  display: flex;
+}
+.feed{
+  margin-top: 60px;
+}
